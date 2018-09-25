@@ -4,7 +4,12 @@
     "is_landing_page": {
       "type": "identifier",
       "selector": "[name=\"opening_page\"]",
-      "control": "exists"
+      "control": "text"
+    },
+    "username": {
+      "type": "string",
+      "selector": "[name=\"flex_user_code\"]",
+      "control": "text"
     }
   },
   "connect": []
