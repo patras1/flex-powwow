@@ -4,7 +4,7 @@
     "is_landing_page": {
       "type": "identifier",
       "selector": "[name=\"opening_page\"]",
-      "control": "text"
+      "control": "exists"
     },
     "username": {
       "type": "string",
