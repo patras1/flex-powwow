@@ -4,7 +4,7 @@
     "is_landing_page": {
       "type": "identifier",
       "selector": "[name=\"opening_page\"]",
-      "control": "property.innerText"
+      "control": "exists"
     }
   },
   "connect": []
